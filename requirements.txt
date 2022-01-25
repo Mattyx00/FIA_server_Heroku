@@ -71,7 +71,7 @@ Pillow==8.2.0
 protobuf==3.17.3
 pycparser==2.20
 PyMeeus==0.5.11
-PyMI==1.0.4
+PyMI==
 pyparsing==2.4.7
 pystan==2.17.1.0
 python-dateutil==2.8.1
