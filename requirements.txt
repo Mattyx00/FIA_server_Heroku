@@ -31,7 +31,7 @@ greenlet==1.1.0
 gunicorn==20.1.0
 hijri-converter==2.1.2
 holidays==0.11.1
-httpstan==1.0.0
+httpstan==0.10.1
 idna==2.10
 importlib-metadata==4.5.0
 influxdb==5.3.1
